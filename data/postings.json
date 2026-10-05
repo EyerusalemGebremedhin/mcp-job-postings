@@ -1,0 +1,1553 @@
+[
+  {
+    "id": 1,
+    "title": "Security Engineer",
+    "company": "Baobab Tech",
+    "location": "Nairobi",
+    "date": "2026-09-24",
+    "skills": [
+      "react",
+      "git",
+      "fastapi",
+      "sql"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Security Engineer",
+    "company": "Baobab Tech",
+    "location": "Accra",
+    "date": "2026-09-14",
+    "skills": [
+      "python",
+      "sql",
+      "react"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Data Analyst",
+    "company": "Acme Analytics",
+    "location": "Accra",
+    "date": "2026-09-07",
+    "skills": [
+      "oauth",
+      "go",
+      "typescript",
+      "react",
+      "rust"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "DevOps Engineer",
+    "company": "Everest Data",
+    "location": "Nairobi",
+    "date": "2026-09-25",
+    "skills": [
+      "git",
+      "typescript",
+      "aws"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "ML Engineer",
+    "company": "Cobalt Labs",
+    "location": "Remote",
+    "date": "2026-09-25",
+    "skills": [
+      "sql",
+      "git",
+      "typescript",
+      "oauth"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "ML Engineer",
+    "company": "Fig Systems",
+    "location": "Accra",
+    "date": "2026-09-09",
+    "skills": [
+      "git",
+      "rust",
+      "go"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Backend Engineer",
+    "company": "Giraffe Pay",
+    "location": "Nairobi",
+    "date": "2026-09-18",
+    "skills": [
+      "oauth",
+      "pandas",
+      "aws",
+      "react"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Security Engineer",
+    "company": "Baobab Tech",
+    "location": "Nairobi",
+    "date": "2026-09-22",
+    "skills": [
+      "docker",
+      "sql",
+      "react"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Backend Engineer",
+    "company": "Giraffe Pay",
+    "location": "Lagos",
+    "date": "2026-09-15",
+    "skills": [
+      "aws",
+      "fastapi",
+      "git",
+      "pandas",
+      "react"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Security Engineer",
+    "company": "Everest Data",
+    "location": "Addis Ababa",
+    "date": "2026-09-30",
+    "skills": [
+      "oauth",
+      "sql",
+      "pandas",
+      "fastapi",
+      "react"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Data Analyst",
+    "company": "Harvest AI",
+    "location": "Kigali",
+    "date": "2026-09-09",
+    "skills": [
+      "git",
+      "go",
+      "react",
+      "aws",
+      "python"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Data Analyst",
+    "company": "Acme Analytics",
+    "location": "Lagos",
+    "date": "2026-09-13",
+    "skills": [
+      "sql",
+      "react",
+      "pandas",
+      "aws"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Data Analyst",
+    "company": "Harvest AI",
+    "location": "Kigali",
+    "date": "2026-09-29",
+    "skills": [
+      "rust",
+      "fastapi",
+      "docker",
+      "oauth",
+      "react"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Security Engineer",
+    "company": "Everest Data",
+    "location": "Addis Ababa",
+    "date": "2026-09-19",
+    "skills": [
+      "pandas",
+      "typescript",
+      "aws",
+      "react"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Data Analyst",
+    "company": "Harvest AI",
+    "location": "Nairobi",
+    "date": "2026-09-25",
+    "skills": [
+      "sql",
+      "fastapi",
+      "oauth"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Security Engineer",
+    "company": "Giraffe Pay",
+    "location": "Accra",
+    "date": "2026-09-03",
+    "skills": [
+      "typescript",
+      "pandas",
+      "rust",
+      "go"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "ML Engineer",
+    "company": "Acme Analytics",
+    "location": "Addis Ababa",
+    "date": "2026-09-24",
+    "skills": [
+      "oauth",
+      "go",
+      "docker"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Security Engineer",
+    "company": "Fig Systems",
+    "location": "Nairobi",
+    "date": "2026-09-10",
+    "skills": [
+      "fastapi",
+      "rust",
+      "python",
+      "docker"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "DevOps Engineer",
+    "company": "Cobalt Labs",
+    "location": "Accra",
+    "date": "2026-09-30",
+    "skills": [
+      "oauth",
+      "docker",
+      "go"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "DevOps Engineer",
+    "company": "Delta Health",
+    "location": "Remote",
+    "date": "2026-09-12",
+    "skills": [
+      "go",
+      "git",
+      "python"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "DevOps Engineer",
+    "company": "Fig Systems",
+    "location": "Kigali",
+    "date": "2026-09-01",
+    "skills": [
+      "aws",
+      "docker",
+      "react"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Backend Engineer",
+    "company": "Delta Health",
+    "location": "Accra",
+    "date": "2026-09-03",
+    "skills": [
+      "git",
+      "rust",
+      "sql"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "DevOps Engineer",
+    "company": "Cobalt Labs",
+    "location": "Remote",
+    "date": "2026-09-22",
+    "skills": [
+      "go",
+      "fastapi",
+      "docker",
+      "git"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "DevOps Engineer",
+    "company": "Giraffe Pay",
+    "location": "Remote",
+    "date": "2026-09-30",
+    "skills": [
+      "git",
+      "react",
+      "docker",
+      "typescript",
+      "aws"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Frontend Developer",
+    "company": "Harvest AI",
+    "location": "Nairobi",
+    "date": "2026-09-08",
+    "skills": [
+      "sql",
+      "aws",
+      "python"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "DevOps Engineer",
+    "company": "Delta Health",
+    "location": "Accra",
+    "date": "2026-09-08",
+    "skills": [
+      "sql",
+      "oauth",
+      "python"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Data Analyst",
+    "company": "Baobab Tech",
+    "location": "Nairobi",
+    "date": "2026-09-28",
+    "skills": [
+      "sql",
+      "go",
+      "react",
+      "docker"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Security Engineer",
+    "company": "Harvest AI",
+    "location": "Remote",
+    "date": "2026-09-18",
+    "skills": [
+      "git",
+      "pandas",
+      "oauth"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Frontend Developer",
+    "company": "Delta Health",
+    "location": "Kigali",
+    "date": "2026-09-26",
+    "skills": [
+      "react",
+      "sql",
+      "oauth",
+      "typescript"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "ML Engineer",
+    "company": "Giraffe Pay",
+    "location": "Kigali",
+    "date": "2026-09-15",
+    "skills": [
+      "python",
+      "oauth",
+      "sql",
+      "git",
+      "typescript"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Security Engineer",
+    "company": "Fig Systems",
+    "location": "Nairobi",
+    "date": "2026-09-08",
+    "skills": [
+      "react",
+      "go",
+      "rust"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Data Analyst",
+    "company": "Giraffe Pay",
+    "location": "Remote",
+    "date": "2026-09-09",
+    "skills": [
+      "react",
+      "sql",
+      "rust",
+      "go"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Backend Engineer",
+    "company": "Acme Analytics",
+    "location": "Addis Ababa",
+    "date": "2026-09-18",
+    "skills": [
+      "sql",
+      "react",
+      "fastapi"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Frontend Developer",
+    "company": "Harvest AI",
+    "location": "Kigali",
+    "date": "2026-09-07",
+    "skills": [
+      "python",
+      "fastapi",
+      "typescript",
+      "git"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Frontend Developer",
+    "company": "Everest Data",
+    "location": "Kigali",
+    "date": "2026-09-10",
+    "skills": [
+      "git",
+      "go",
+      "rust",
+      "fastapi"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Data Analyst",
+    "company": "Everest Data",
+    "location": "Remote",
+    "date": "2026-09-02",
+    "skills": [
+      "git",
+      "go",
+      "python",
+      "aws",
+      "pandas"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Backend Engineer",
+    "company": "Harvest AI",
+    "location": "Accra",
+    "date": "2026-09-30",
+    "skills": [
+      "fastapi",
+      "python",
+      "go",
+      "sql",
+      "git"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Backend Engineer",
+    "company": "Baobab Tech",
+    "location": "Addis Ababa",
+    "date": "2026-09-28",
+    "skills": [
+      "typescript",
+      "sql",
+      "pandas"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Data Analyst",
+    "company": "Acme Analytics",
+    "location": "Accra",
+    "date": "2026-09-03",
+    "skills": [
+      "oauth",
+      "pandas",
+      "git",
+      "go"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "ML Engineer",
+    "company": "Everest Data",
+    "location": "Remote",
+    "date": "2026-09-22",
+    "skills": [
+      "aws",
+      "react",
+      "docker",
+      "typescript",
+      "fastapi"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Security Engineer",
+    "company": "Everest Data",
+    "location": "Kigali",
+    "date": "2026-09-11",
+    "skills": [
+      "python",
+      "rust",
+      "pandas"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "DevOps Engineer",
+    "company": "Baobab Tech",
+    "location": "Nairobi",
+    "date": "2026-09-18",
+    "skills": [
+      "go",
+      "docker",
+      "fastapi"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "ML Engineer",
+    "company": "Baobab Tech",
+    "location": "Remote",
+    "date": "2026-09-12",
+    "skills": [
+      "fastapi",
+      "rust",
+      "go",
+      "docker"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "DevOps Engineer",
+    "company": "Acme Analytics",
+    "location": "Addis Ababa",
+    "date": "2026-09-27",
+    "skills": [
+      "docker",
+      "oauth",
+      "sql",
+      "fastapi",
+      "git"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Backend Engineer",
+    "company": "Baobab Tech",
+    "location": "Addis Ababa",
+    "date": "2026-09-18",
+    "skills": [
+      "docker",
+      "git",
+      "pandas"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Data Analyst",
+    "company": "Fig Systems",
+    "location": "Remote",
+    "date": "2026-09-22",
+    "skills": [
+      "docker",
+      "go",
+      "rust",
+      "git",
+      "python"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Backend Engineer",
+    "company": "Giraffe Pay",
+    "location": "Lagos",
+    "date": "2026-09-02",
+    "skills": [
+      "aws",
+      "fastapi",
+      "docker"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Data Analyst",
+    "company": "Harvest AI",
+    "location": "Accra",
+    "date": "2026-09-23",
+    "skills": [
+      "go",
+      "python",
+      "sql",
+      "pandas"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Security Engineer",
+    "company": "Cobalt Labs",
+    "location": "Accra",
+    "date": "2026-09-02",
+    "skills": [
+      "pandas",
+      "go",
+      "fastapi",
+      "typescript"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Data Analyst",
+    "company": "Acme Analytics",
+    "location": "Lagos",
+    "date": "2026-09-12",
+    "skills": [
+      "aws",
+      "react",
+      "oauth"
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Security Engineer",
+    "company": "Baobab Tech",
+    "location": "Lagos",
+    "date": "2026-09-25",
+    "skills": [
+      "typescript",
+      "pandas",
+      "fastapi",
+      "react",
+      "oauth"
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Data Analyst",
+    "company": "Giraffe Pay",
+    "location": "Nairobi",
+    "date": "2026-09-06",
+    "skills": [
+      "aws",
+      "typescript",
+      "react",
+      "docker",
+      "fastapi"
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Security Engineer",
+    "company": "Baobab Tech",
+    "location": "Kigali",
+    "date": "2026-09-28",
+    "skills": [
+      "rust",
+      "react",
+      "oauth"
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Frontend Developer",
+    "company": "Fig Systems",
+    "location": "Lagos",
+    "date": "2026-09-27",
+    "skills": [
+      "react",
+      "python",
+      "git"
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Frontend Developer",
+    "company": "Fig Systems",
+    "location": "Lagos",
+    "date": "2026-09-28",
+    "skills": [
+      "docker",
+      "aws",
+      "go"
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Frontend Developer",
+    "company": "Fig Systems",
+    "location": "Nairobi",
+    "date": "2026-09-04",
+    "skills": [
+      "fastapi",
+      "pandas",
+      "docker",
+      "python"
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Backend Engineer",
+    "company": "Giraffe Pay",
+    "location": "Lagos",
+    "date": "2026-09-24",
+    "skills": [
+      "typescript",
+      "pandas",
+      "go",
+      "sql"
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Frontend Developer",
+    "company": "Delta Health",
+    "location": "Lagos",
+    "date": "2026-09-02",
+    "skills": [
+      "typescript",
+      "python",
+      "go",
+      "pandas",
+      "react"
+    ]
+  },
+  {
+    "id": 59,
+    "title": "ML Engineer",
+    "company": "Giraffe Pay",
+    "location": "Nairobi",
+    "date": "2026-09-22",
+    "skills": [
+      "pandas",
+      "aws",
+      "sql",
+      "docker"
+    ]
+  },
+  {
+    "id": 60,
+    "title": "DevOps Engineer",
+    "company": "Everest Data",
+    "location": "Addis Ababa",
+    "date": "2026-09-14",
+    "skills": [
+      "typescript",
+      "docker",
+      "go",
+      "fastapi"
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Data Analyst",
+    "company": "Giraffe Pay",
+    "location": "Addis Ababa",
+    "date": "2026-09-13",
+    "skills": [
+      "git",
+      "fastapi",
+      "pandas",
+      "docker",
+      "typescript"
+    ]
+  },
+  {
+    "id": 62,
+    "title": "DevOps Engineer",
+    "company": "Acme Analytics",
+    "location": "Lagos",
+    "date": "2026-09-10",
+    "skills": [
+      "typescript",
+      "pandas",
+      "oauth"
+    ]
+  },
+  {
+    "id": 63,
+    "title": "Security Engineer",
+    "company": "Fig Systems",
+    "location": "Kigali",
+    "date": "2026-09-15",
+    "skills": [
+      "oauth",
+      "react",
+      "go",
+      "rust"
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Security Engineer",
+    "company": "Cobalt Labs",
+    "location": "Addis Ababa",
+    "date": "2026-09-03",
+    "skills": [
+      "go",
+      "oauth",
+      "pandas",
+      "aws"
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Backend Engineer",
+    "company": "Delta Health",
+    "location": "Addis Ababa",
+    "date": "2026-09-10",
+    "skills": [
+      "react",
+      "fastapi",
+      "python"
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Backend Engineer",
+    "company": "Delta Health",
+    "location": "Kigali",
+    "date": "2026-09-20",
+    "skills": [
+      "rust",
+      "typescript",
+      "pandas"
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Data Analyst",
+    "company": "Giraffe Pay",
+    "location": "Kigali",
+    "date": "2026-09-13",
+    "skills": [
+      "fastapi",
+      "oauth",
+      "python"
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Backend Engineer",
+    "company": "Giraffe Pay",
+    "location": "Remote",
+    "date": "2026-09-06",
+    "skills": [
+      "go",
+      "rust",
+      "python",
+      "git",
+      "react"
+    ]
+  },
+  {
+    "id": 69,
+    "title": "Backend Engineer",
+    "company": "Harvest AI",
+    "location": "Remote",
+    "date": "2026-09-26",
+    "skills": [
+      "oauth",
+      "go",
+      "git",
+      "aws"
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Frontend Developer",
+    "company": "Giraffe Pay",
+    "location": "Accra",
+    "date": "2026-09-15",
+    "skills": [
+      "git",
+      "rust",
+      "oauth"
+    ]
+  },
+  {
+    "id": 71,
+    "title": "ML Engineer",
+    "company": "Delta Health",
+    "location": "Addis Ababa",
+    "date": "2026-09-09",
+    "skills": [
+      "rust",
+      "oauth",
+      "react",
+      "docker",
+      "git"
+    ]
+  },
+  {
+    "id": 72,
+    "title": "Backend Engineer",
+    "company": "Everest Data",
+    "location": "Remote",
+    "date": "2026-09-09",
+    "skills": [
+      "aws",
+      "go",
+      "sql",
+      "fastapi"
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Data Analyst",
+    "company": "Delta Health",
+    "location": "Kigali",
+    "date": "2026-09-23",
+    "skills": [
+      "git",
+      "react",
+      "sql"
+    ]
+  },
+  {
+    "id": 74,
+    "title": "Frontend Developer",
+    "company": "Giraffe Pay",
+    "location": "Lagos",
+    "date": "2026-09-18",
+    "skills": [
+      "typescript",
+      "python",
+      "react",
+      "git"
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Frontend Developer",
+    "company": "Acme Analytics",
+    "location": "Accra",
+    "date": "2026-09-13",
+    "skills": [
+      "python",
+      "aws",
+      "docker",
+      "typescript"
+    ]
+  },
+  {
+    "id": 76,
+    "title": "Frontend Developer",
+    "company": "Delta Health",
+    "location": "Kigali",
+    "date": "2026-09-08",
+    "skills": [
+      "typescript",
+      "rust",
+      "python",
+      "git"
+    ]
+  },
+  {
+    "id": 77,
+    "title": "ML Engineer",
+    "company": "Giraffe Pay",
+    "location": "Addis Ababa",
+    "date": "2026-09-06",
+    "skills": [
+      "fastapi",
+      "pandas",
+      "go",
+      "python"
+    ]
+  },
+  {
+    "id": 78,
+    "title": "Frontend Developer",
+    "company": "Acme Analytics",
+    "location": "Nairobi",
+    "date": "2026-09-21",
+    "skills": [
+      "fastapi",
+      "rust",
+      "git",
+      "python"
+    ]
+  },
+  {
+    "id": 79,
+    "title": "ML Engineer",
+    "company": "Giraffe Pay",
+    "location": "Lagos",
+    "date": "2026-09-07",
+    "skills": [
+      "aws",
+      "git",
+      "typescript",
+      "docker"
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Frontend Developer",
+    "company": "Everest Data",
+    "location": "Nairobi",
+    "date": "2026-09-16",
+    "skills": [
+      "git",
+      "go",
+      "python"
+    ]
+  },
+  {
+    "id": 81,
+    "title": "ML Engineer",
+    "company": "Delta Health",
+    "location": "Addis Ababa",
+    "date": "2026-09-03",
+    "skills": [
+      "python",
+      "git",
+      "react",
+      "pandas",
+      "oauth"
+    ]
+  },
+  {
+    "id": 82,
+    "title": "DevOps Engineer",
+    "company": "Cobalt Labs",
+    "location": "Remote",
+    "date": "2026-09-05",
+    "skills": [
+      "oauth",
+      "sql",
+      "pandas",
+      "react"
+    ]
+  },
+  {
+    "id": 83,
+    "title": "Frontend Developer",
+    "company": "Everest Data",
+    "location": "Lagos",
+    "date": "2026-09-06",
+    "skills": [
+      "pandas",
+      "sql",
+      "fastapi",
+      "docker",
+      "oauth"
+    ]
+  },
+  {
+    "id": 84,
+    "title": "DevOps Engineer",
+    "company": "Acme Analytics",
+    "location": "Lagos",
+    "date": "2026-09-19",
+    "skills": [
+      "typescript",
+      "git",
+      "react",
+      "sql",
+      "pandas"
+    ]
+  },
+  {
+    "id": 85,
+    "title": "Backend Engineer",
+    "company": "Everest Data",
+    "location": "Addis Ababa",
+    "date": "2026-09-20",
+    "skills": [
+      "pandas",
+      "python",
+      "aws"
+    ]
+  },
+  {
+    "id": 86,
+    "title": "DevOps Engineer",
+    "company": "Giraffe Pay",
+    "location": "Addis Ababa",
+    "date": "2026-09-12",
+    "skills": [
+      "go",
+      "oauth",
+      "aws"
+    ]
+  },
+  {
+    "id": 87,
+    "title": "Backend Engineer",
+    "company": "Giraffe Pay",
+    "location": "Kigali",
+    "date": "2026-09-04",
+    "skills": [
+      "aws",
+      "oauth",
+      "rust",
+      "fastapi"
+    ]
+  },
+  {
+    "id": 88,
+    "title": "Frontend Developer",
+    "company": "Cobalt Labs",
+    "location": "Addis Ababa",
+    "date": "2026-09-17",
+    "skills": [
+      "docker",
+      "pandas",
+      "go",
+      "rust",
+      "oauth"
+    ]
+  },
+  {
+    "id": 89,
+    "title": "Frontend Developer",
+    "company": "Everest Data",
+    "location": "Lagos",
+    "date": "2026-09-28",
+    "skills": [
+      "sql",
+      "docker",
+      "rust"
+    ]
+  },
+  {
+    "id": 90,
+    "title": "Data Analyst",
+    "company": "Harvest AI",
+    "location": "Accra",
+    "date": "2026-09-20",
+    "skills": [
+      "typescript",
+      "aws",
+      "python",
+      "rust",
+      "oauth"
+    ]
+  },
+  {
+    "id": 91,
+    "title": "Data Analyst",
+    "company": "Harvest AI",
+    "location": "Remote",
+    "date": "2026-09-12",
+    "skills": [
+      "aws",
+      "docker",
+      "pandas",
+      "oauth"
+    ]
+  },
+  {
+    "id": 92,
+    "title": "DevOps Engineer",
+    "company": "Acme Analytics",
+    "location": "Accra",
+    "date": "2026-09-07",
+    "skills": [
+      "react",
+      "typescript",
+      "rust"
+    ]
+  },
+  {
+    "id": 93,
+    "title": "DevOps Engineer",
+    "company": "Delta Health",
+    "location": "Addis Ababa",
+    "date": "2026-09-16",
+    "skills": [
+      "git",
+      "rust",
+      "oauth",
+      "python",
+      "sql"
+    ]
+  },
+  {
+    "id": 94,
+    "title": "ML Engineer",
+    "company": "Delta Health",
+    "location": "Kigali",
+    "date": "2026-09-23",
+    "skills": [
+      "docker",
+      "oauth",
+      "pandas"
+    ]
+  },
+  {
+    "id": 95,
+    "title": "ML Engineer",
+    "company": "Harvest AI",
+    "location": "Accra",
+    "date": "2026-09-17",
+    "skills": [
+      "typescript",
+      "go",
+      "aws",
+      "pandas"
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Security Engineer",
+    "company": "Harvest AI",
+    "location": "Lagos",
+    "date": "2026-09-10",
+    "skills": [
+      "react",
+      "sql",
+      "git",
+      "aws"
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Backend Engineer",
+    "company": "Cobalt Labs",
+    "location": "Remote",
+    "date": "2026-09-07",
+    "skills": [
+      "rust",
+      "docker",
+      "pandas",
+      "go",
+      "oauth"
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Backend Engineer",
+    "company": "Delta Health",
+    "location": "Lagos",
+    "date": "2026-09-08",
+    "skills": [
+      "fastapi",
+      "docker",
+      "python",
+      "go"
+    ]
+  },
+  {
+    "id": 99,
+    "title": "Data Analyst",
+    "company": "Everest Data",
+    "location": "Nairobi",
+    "date": "2026-09-02",
+    "skills": [
+      "docker",
+      "fastapi",
+      "rust",
+      "sql",
+      "python"
+    ]
+  },
+  {
+    "id": 100,
+    "title": "DevOps Engineer",
+    "company": "Everest Data",
+    "location": "Kigali",
+    "date": "2026-09-16",
+    "skills": [
+      "aws",
+      "fastapi",
+      "python",
+      "docker"
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Frontend Developer",
+    "company": "Baobab Tech",
+    "location": "Nairobi",
+    "date": "2026-09-13",
+    "skills": [
+      "sql",
+      "pandas",
+      "python",
+      "fastapi"
+    ]
+  },
+  {
+    "id": 102,
+    "title": "Data Analyst",
+    "company": "Everest Data",
+    "location": "Nairobi",
+    "date": "2026-09-08",
+    "skills": [
+      "go",
+      "typescript",
+      "pandas"
+    ]
+  },
+  {
+    "id": 103,
+    "title": "DevOps Engineer",
+    "company": "Delta Health",
+    "location": "Accra",
+    "date": "2026-09-13",
+    "skills": [
+      "rust",
+      "docker",
+      "pandas",
+      "typescript"
+    ]
+  },
+  {
+    "id": 104,
+    "title": "ML Engineer",
+    "company": "Acme Analytics",
+    "location": "Accra",
+    "date": "2026-09-24",
+    "skills": [
+      "react",
+      "oauth",
+      "git"
+    ]
+  },
+  {
+    "id": 105,
+    "title": "ML Engineer",
+    "company": "Baobab Tech",
+    "location": "Remote",
+    "date": "2026-09-08",
+    "skills": [
+      "go",
+      "sql",
+      "fastapi"
+    ]
+  },
+  {
+    "id": 106,
+    "title": "Backend Engineer",
+    "company": "Giraffe Pay",
+    "location": "Kigali",
+    "date": "2026-09-23",
+    "skills": [
+      "rust",
+      "docker",
+      "python",
+      "react",
+      "oauth"
+    ]
+  },
+  {
+    "id": 107,
+    "title": "Security Engineer",
+    "company": "Everest Data",
+    "location": "Addis Ababa",
+    "date": "2026-09-28",
+    "skills": [
+      "sql",
+      "oauth",
+      "react",
+      "docker"
+    ]
+  },
+  {
+    "id": 108,
+    "title": "Security Engineer",
+    "company": "Delta Health",
+    "location": "Kigali",
+    "date": "2026-09-04",
+    "skills": [
+      "react",
+      "oauth",
+      "fastapi",
+      "docker",
+      "pandas"
+    ]
+  },
+  {
+    "id": 109,
+    "title": "Backend Engineer",
+    "company": "Acme Analytics",
+    "location": "Remote",
+    "date": "2026-09-26",
+    "skills": [
+      "pandas",
+      "git",
+      "docker",
+      "rust"
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Backend Engineer",
+    "company": "Harvest AI",
+    "location": "Addis Ababa",
+    "date": "2026-09-10",
+    "skills": [
+      "typescript",
+      "docker",
+      "go",
+      "pandas",
+      "rust"
+    ]
+  },
+  {
+    "id": 111,
+    "title": "Frontend Developer",
+    "company": "Baobab Tech",
+    "location": "Accra",
+    "date": "2026-09-02",
+    "skills": [
+      "git",
+      "aws",
+      "pandas",
+      "docker"
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Backend Engineer",
+    "company": "Baobab Tech",
+    "location": "Remote",
+    "date": "2026-09-22",
+    "skills": [
+      "pandas",
+      "python",
+      "docker",
+      "oauth",
+      "fastapi"
+    ]
+  },
+  {
+    "id": 113,
+    "title": "Frontend Developer",
+    "company": "Harvest AI",
+    "location": "Lagos",
+    "date": "2026-09-06",
+    "skills": [
+      "typescript",
+      "oauth",
+      "rust",
+      "sql",
+      "pandas"
+    ]
+  },
+  {
+    "id": 114,
+    "title": "ML Engineer",
+    "company": "Giraffe Pay",
+    "location": "Lagos",
+    "date": "2026-09-11",
+    "skills": [
+      "sql",
+      "fastapi",
+      "aws",
+      "typescript",
+      "rust"
+    ]
+  },
+  {
+    "id": 115,
+    "title": "ML Engineer",
+    "company": "Giraffe Pay",
+    "location": "Accra",
+    "date": "2026-09-02",
+    "skills": [
+      "sql",
+      "aws",
+      "docker",
+      "oauth"
+    ]
+  },
+  {
+    "id": 116,
+    "title": "Backend Engineer",
+    "company": "Giraffe Pay",
+    "location": "Accra",
+    "date": "2026-09-27",
+    "skills": [
+      "oauth",
+      "go",
+      "rust"
+    ]
+  },
+  {
+    "id": 117,
+    "title": "Frontend Developer",
+    "company": "Acme Analytics",
+    "location": "Remote",
+    "date": "2026-09-17",
+    "skills": [
+      "pandas",
+      "rust",
+      "oauth",
+      "python"
+    ]
+  },
+  {
+    "id": 118,
+    "title": "Data Analyst",
+    "company": "Everest Data",
+    "location": "Accra",
+    "date": "2026-09-05",
+    "skills": [
+      "rust",
+      "git",
+      "sql",
+      "python"
+    ]
+  },
+  {
+    "id": 119,
+    "title": "Security Engineer",
+    "company": "Delta Health",
+    "location": "Addis Ababa",
+    "date": "2026-09-06",
+    "skills": [
+      "go",
+      "python",
+      "git",
+      "typescript"
+    ]
+  },
+  {
+    "id": 120,
+    "title": "Backend Engineer",
+    "company": "Delta Health",
+    "location": "Nairobi",
+    "date": "2026-09-15",
+    "skills": [
+      "oauth",
+      "fastapi",
+      "rust"
+    ]
+  }
+]
