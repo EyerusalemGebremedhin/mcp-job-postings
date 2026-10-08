@@ -87,16 +87,3 @@ The results match the Python server: Giraffe Pay has 23 postings, and 38 posting
 - **A plain `ValueError` hides your message.** My first version used `ValueError` and my tests passed. But through a real MCP client, the model only saw `Error executing tool get_posting`. The SDK treats unexpected errors as crashes and hides the text. I fixed it by raising `ToolError`. My unit tests could not find this. Only calling the real server did.
 - **Installing Rust without admin rights.** `apt install cargo` needs `sudo`, and I don't have it. rustup installs in the home folder, so I used that.
 
-## Limits and next steps
-
-- The data is fake and small.
-- Search only matches exact skill names. A search for `node` returns nothing and gives no reason. I would add a tool that lists valid skills.
-- No login yet. Next, I want to run the server over HTTP and check a token on every request.
-- The Rust program only reads data. It is not an MCP server.
-
-## Contact
-
-Eyerusalem Gebremedhin, Nairobi
-[github.com/EyerusalemGebremedhin](https://github.com/EyerusalemGebremedhin) · eyerusalemv@gmail.com
-
-I also built Bloom, a maternal health app. Its FastAPI backend uses JWT login and role-based access, so mothers, health workers and admins only see their own data.
